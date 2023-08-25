@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">A passionate backend developer from Turkiye</h3>
+<h3 align="center">A passionate back-end developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtcnck&label=Profile%20views&color=0e75b6&style=flat" alt="mrtcnck" /> </p>
 
