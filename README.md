@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">A passionate back-end developer from Turkiye</h3>
+# Hi, I'm Mertcan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtcnck&label=Profile%20views&color=0e75b6&style=flat" alt="mrtcnck" /> </p>
+I'm a software engineer from Türkiye focused on building practical backend and full-stack applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtcnck" alt="mrtcnck" /></a> </p>
+My background is rooted in **C#/.NET**, data-driven applications, and web development. I'm also expanding my work into **AI-assisted development**, **LLM integrations**, and **automation**—using AI as part of a thoughtful engineering workflow rather than as a substitute for solid software fundamentals.
 
-- 🌱 I’m currently learning **ASP.NET Core MVC, EF Core**
+## What I work with
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrtcnck?tab=repositories](https://github.com/mrtcnck?tab=repositories)
+- **Backend:** C#, .NET, ASP.NET Core, ADO.NET
+- **Web:** JavaScript, HTML, CSS, Bootstrap
+- **Data:** SQL Server, MySQL, SQLite
+- **Engineering interests:** API integrations, role-based systems, search experiences, automation, and AI-assisted development
 
-- 💬 Ask me about **ASP.NET Core MVC, JS, EF Core**
+## Selected projects
 
-- 📫 How to reach me **mrtcnck@hotmail.com**
+- [**Letgo Web Clone**](https://github.com/mrtcnck/LetgoWebClone) — A marketplace application with authentication, listing moderation, messaging, database-backed workflows, and Algolia Search integration.
+- [**Gas Station Project**](https://github.com/mrtcnck/Gas-Station-Project) — A C# Windows Forms graduation project featuring role-based access for admins, managers, and users.
+- [**Weather Forecast**](https://github.com/mrtcnck/Weather-Forecast) — A JavaScript weather application using geolocation, API data, and a five-day forecast.
+- [**E-Shopping Website**](https://github.com/mrtcnck/E-Shopping-WebSite) — A front-end shopping experience with product filtering, cart management, and checkout flow.
 
-- ⚡ Fun fact **I love coding**
+## Current direction
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mertcanocuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcanocuk" height="30" width="40" /></a>
-<a href="https://instagram.com/mrtcnck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrtcnck" height="30" width="40" /></a>
-</p>
+I'm interested in software that combines reliable backend systems with practical AI capabilities. My current focus includes exploring LLM-powered features, development automation, and ways to make software workflows more effective with AI.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Connect
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtcnck&show_icons=true&locale=en&layout=compact" alt="mrtcnck" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtcnck&show_icons=true&locale=en" alt="mrtcnck" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtcnck&" alt="mrtcnck" /></p>
+- [LinkedIn](https://www.linkedin.com/in/mertcanocuk)
+- [GitHub repositories](https://github.com/mrtcnck?tab=repositories)
+- [Email](mailto:mrtcnck@hotmail.com)
