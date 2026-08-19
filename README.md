@@ -1,29 +1,32 @@
 # Hi, I'm Mertcan 👋
 
-I'm a software engineer from Türkiye focused on building practical backend and full-stack applications.
+### Software Engineer building reliable products with backend systems, full-stack development, and practical AI.
 
-My background is rooted in **C#/.NET**, data-driven applications, and web development. I'm also expanding my work into **AI-assisted development**, **LLM integrations**, and **automation**—using AI as part of a thoughtful engineering workflow rather than as a substitute for solid software fundamentals.
+I work across the software development lifecycle—from shaping an idea and designing application flows to building data-driven features and integrating external services.
 
-## What I work with
+Today, I'm focused on using **AI-assisted development**, **LLM-powered capabilities**, and **automation** as practical engineering tools: improving how software is built, reducing repetitive work, and creating more useful product experiences.
 
-- **Backend:** C#, .NET, ASP.NET Core, ADO.NET
-- **Web:** JavaScript, HTML, CSS, Bootstrap
-- **Data:** SQL Server, MySQL, SQLite
-- **Engineering interests:** API integrations, role-based systems, search experiences, automation, and AI-assisted development
+## Focus areas
 
-## Selected projects
+- Backend and full-stack application development
+- API, data, and third-party service integrations
+- AI-assisted engineering workflows
+- LLM-powered product features and automation
+- Maintainable, understandable software
 
-- [**Letgo Web Clone**](https://github.com/mrtcnck/LetgoWebClone) — A marketplace application with authentication, listing moderation, messaging, database-backed workflows, and Algolia Search integration.
-- [**Gas Station Project**](https://github.com/mrtcnck/Gas-Station-Project) — A C# Windows Forms graduation project featuring role-based access for admins, managers, and users.
-- [**Weather Forecast**](https://github.com/mrtcnck/Weather-Forecast) — A JavaScript weather application using geolocation, API data, and a five-day forecast.
-- [**E-Shopping Website**](https://github.com/mrtcnck/E-Shopping-WebSite) — A front-end shopping experience with product filtering, cart management, and checkout flow.
+## Technical foundation
 
-## Current direction
+**C# · .NET · ASP.NET Core · JavaScript · SQL · HTML/CSS · Git**
 
-I'm interested in software that combines reliable backend systems with practical AI capabilities. My current focus includes exploring LLM-powered features, development automation, and ways to make software workflows more effective with AI.
+My public repositories include earlier projects that document my foundations in role-based systems, database-backed applications, API integrations, search, and interactive web experiences. I'm currently evolving that foundation toward modern, AI-enabled software development.
+
+## What I'm exploring now
+
+- Adding useful AI capabilities to real application workflows
+- Automating repetitive development and operational tasks
+- Designing reliable integrations around LLMs and APIs
+- Building software where AI supports sound engineering—not replaces it
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mertcanocuk)
-- [GitHub repositories](https://github.com/mrtcnck?tab=repositories)
-- [Email](mailto:mrtcnck@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/mertcanocuk) · [Repositories](https://github.com/mrtcnck?tab=repositories) · [Email](mailto:mrtcnck@hotmail.com)
